@@ -1,6 +1,6 @@
 # DWH для социальной сети
 
-`vertica` `airflow` `docker` `data vault`
+`vertica` `airflow` `docker` `data vault` `s3`
 
 ---
 
